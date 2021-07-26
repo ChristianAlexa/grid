@@ -1,10 +1,9 @@
-import './App.css';
-import HomePage from './pages/HomePage';
+import PageLayout from './PageLayout';
 
 function App() {
   return (
     <div className="App">
-      <HomePage />
+      <PageLayout />
     </div>
   );
 }
