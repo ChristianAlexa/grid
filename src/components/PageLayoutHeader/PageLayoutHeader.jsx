@@ -1,11 +1,11 @@
 import React from 'react';
 
-export default function GridHeader() {
+export default function PageLayoutHeader() {
   return (
     <div>
       Grid Header!
       <a href="#">archive</a>
       <a href="#">logout</a>
     </div>
-  )
+  );
 }
